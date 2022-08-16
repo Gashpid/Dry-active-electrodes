@@ -9,6 +9,9 @@ Desing schematic and PCB for a dry active electrodes with gain two.
  </div>
 
 
+
+
+
 All designs and codes are subject to copyright.
 
 These designs are copyrighted and associated with the degree thesis (https://repositorio.unbosque.edu.co/bitstream/handle/20.500.12495/8026/Izquierdo_Gomez_Proyecto_Grado.pdf?sequence=1&isAllowed=y), with creative commons Shar-Alike license.
